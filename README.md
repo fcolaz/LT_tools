@@ -31,7 +31,7 @@ The script **`run_finite_length_analysis_inactivation.m`** runs the finite-lengt
 
 If you use this implementation in your research, please cite it using the DOI:  
 
-[![DOI](https://zenodo.org/badge/DOI/YOUR_DOI_HERE.svg)](https://doi.org/YOUR_DOI_HERE)  
+[![DOI](https://zenodo.org/badge/DOI/YOUR_DOI_HERE.svg)](https://doi.org/10.5281/zenodo.14889584)  
 
 ```bibtex
 @misc{your_repo_name,
@@ -39,7 +39,7 @@ If you use this implementation in your research, please cite it using the DOI:
   title     = {LT_Tools: Finite-Length Analysis of LT Codes},
   year      = {2025},
   publisher = {Zenodo},
-  doi       = {YOUR_DOI_HERE}
+  doi       = {10.5281/zenodo.14889584}
 }
 ```
 
