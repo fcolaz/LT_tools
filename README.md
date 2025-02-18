@@ -35,7 +35,7 @@ If you use this implementation in your research, please cite it using the DOI:
 
 ```bibtex
 @misc{your_repo_name,
-  author    = {Your Name},
+  author    = {Lázaro, Francisco},
   title     = {LT_Tools: Finite-Length Analysis of LT Codes},
   year      = {2025},
   publisher = {Zenodo},
