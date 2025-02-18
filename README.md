@@ -45,7 +45,7 @@ If you use this implementation in your research, please cite it using the DOI:
 
 ## References  
 
-- **[1]** Karp, Richard, Michael Luby, and Amin Shokrollahi. *"Finite length analysis of LT codes."* Proceedings of the International Symposium on Information Theory (ISIT), 2004.  
+- **[1]** Richard Karp, Michael Luby, and Amin Shokrollahi. *"Finite length analysis of LT codes."* Proceedings of the International Symposium on Information Theory (ISIT), 2004.  
 
-- **[2]** Lázaro, Francisco, Gianluigi Liva, and Gerhard Bauch. *"Inactivation decoding of LT and Raptor codes: Analysis and code design."* IEEE Transactions on Communications, vol. 65, no. 10, pp. 4114-4127, 2017.  
+- **[2]** Francisco Lázaro, Gianluigi Liva, and Gerhard Bauch. *"Inactivation decoding of LT and Raptor codes: Analysis and code design."* IEEE Transactions on Communications, vol. 65, no. 10, pp. 4114-4127, 2017.  
 
